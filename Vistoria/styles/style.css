@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f7f7f7;
+  color: #3f3d56;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #d4af37;
+  text-align: left;
+  padding: 20px;
+}
+
+.brand-name {
+  color: #3f3d56;
+  font-weight: normal;
+}
+
+.motto {
+  font-style: italic;
+  margin-top: -10px;
+  color: #7b8fa1;
+}
